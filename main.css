@@ -162,7 +162,7 @@ html {
     grid-row: 1;
     grid-column: 2;
     display: flex;
-    jutify-content: center;
+    justify-content: center;
     align-items: center;
   }
 
